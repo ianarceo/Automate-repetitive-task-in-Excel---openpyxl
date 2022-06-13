@@ -6,6 +6,7 @@ from datetime import datetime
 from datetime import timedelta
 
 def if_late(time_in):
+    pass
 
 wb = openpyxl.load_workbook(r"C:\Users\BG-PC164a\PycharmProjects\pythonProject2\dailyattendance.xlsx")
 ws = wb.active
